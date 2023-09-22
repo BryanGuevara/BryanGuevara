@@ -1,0 +1,4 @@
+Scaffold-DbContext "server=localhost; database=; Trusted_Connection=SSPI; TrustServerCertificate=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+
+builder.Services.AddDbContext<DbconstruraptorContext>(options =>
+options.UseSqlServer(builder.Configuration.GetConnectionString("conexion")));

@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arq.Limpia.WebUI", "Arq.Limpia.WebUI\Arq.Limpia.WebUI.csproj", "{A8BC8A36-5180-47D4-AB7D-F435DC6C341D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Framework Drivers", "Framework Drivers", "{95EFA509-4DE9-4D26-A2D9-C41F90B0E223}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aplication Business Rules", "Aplication Business Rules", "{48113698-0840-4663-BC49-15FDD49FD4F4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Enterprise Business Rules", "Enterprise Business Rules", "{ED634A53-958B-4D2B-8181-57A9CA0AA9A5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Interface Adapter", "Interface Adapter", "{431A2176-20F2-435A-B9EE-C2D589213538}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arq.Limpia.BL", "Arq.Limpia.BL\Arq.Limpia.BL.csproj", "{43F8DBCF-0DCE-4558-AF59-24752D68E01D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arq.Limpia.BL.DTOs", "Arq.Limpia.BL.DTOs\Arq.Limpia.BL.DTOs.csproj", "{611D1443-15F5-4DCE-B931-8CD20928B712}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arq.Limpia.BL.Interfaces", "Arq.Limpia.BL.Interfaces\Arq.Limpia.BL.Interfaces.csproj", "{6CA84882-C0F9-430C-8DDF-DF489D5CBD31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arq.Limpia.EN", "Arq.Limpia.EN\Arq.Limpia.EN.csproj", "{E95A3527-9AF4-454F-AD6D-BED6B3D5BCFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arq.Limpia.EN.Interfaces", "Arq.Limpia.EN.Interfaces\Arq.Limpia.EN.Interfaces.csproj", "{256D73C9-2288-4077-84F4-3B0F169BC7F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arq.Limpia.DAL", "Arq.Limpia.DAL\Arq.Limpia.DAL.csproj", "{536C8A9E-44CE-42EF-8A8B-ACB7F3800FBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arq.Limpia.IoC", "Arq.Limpia.IoC\Arq.Limpia.IoC.csproj", "{42E9267E-D7E0-44F7-B9F9-575196820F3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8BC8A36-5180-47D4-AB7D-F435DC6C341D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8BC8A36-5180-47D4-AB7D-F435DC6C341D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8BC8A36-5180-47D4-AB7D-F435DC6C341D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8BC8A36-5180-47D4-AB7D-F435DC6C341D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43F8DBCF-0DCE-4558-AF59-24752D68E01D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43F8DBCF-0DCE-4558-AF59-24752D68E01D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43F8DBCF-0DCE-4558-AF59-24752D68E01D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43F8DBCF-0DCE-4558-AF59-24752D68E01D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{611D1443-15F5-4DCE-B931-8CD20928B712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{611D1443-15F5-4DCE-B931-8CD20928B712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{611D1443-15F5-4DCE-B931-8CD20928B712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{611D1443-15F5-4DCE-B931-8CD20928B712}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CA84882-C0F9-430C-8DDF-DF489D5CBD31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CA84882-C0F9-430C-8DDF-DF489D5CBD31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CA84882-C0F9-430C-8DDF-DF489D5CBD31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CA84882-C0F9-430C-8DDF-DF489D5CBD31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E95A3527-9AF4-454F-AD6D-BED6B3D5BCFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E95A3527-9AF4-454F-AD6D-BED6B3D5BCFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E95A3527-9AF4-454F-AD6D-BED6B3D5BCFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E95A3527-9AF4-454F-AD6D-BED6B3D5BCFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{256D73C9-2288-4077-84F4-3B0F169BC7F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{256D73C9-2288-4077-84F4-3B0F169BC7F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{256D73C9-2288-4077-84F4-3B0F169BC7F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{256D73C9-2288-4077-84F4-3B0F169BC7F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{536C8A9E-44CE-42EF-8A8B-ACB7F3800FBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{536C8A9E-44CE-42EF-8A8B-ACB7F3800FBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{536C8A9E-44CE-42EF-8A8B-ACB7F3800FBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{536C8A9E-44CE-42EF-8A8B-ACB7F3800FBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42E9267E-D7E0-44F7-B9F9-575196820F3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42E9267E-D7E0-44F7-B9F9-575196820F3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42E9267E-D7E0-44F7-B9F9-575196820F3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42E9267E-D7E0-44F7-B9F9-575196820F3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A8BC8A36-5180-47D4-AB7D-F435DC6C341D} = {95EFA509-4DE9-4D26-A2D9-C41F90B0E223}
+		{43F8DBCF-0DCE-4558-AF59-24752D68E01D} = {48113698-0840-4663-BC49-15FDD49FD4F4}
+		{611D1443-15F5-4DCE-B931-8CD20928B712} = {48113698-0840-4663-BC49-15FDD49FD4F4}
+		{6CA84882-C0F9-430C-8DDF-DF489D5CBD31} = {48113698-0840-4663-BC49-15FDD49FD4F4}
+		{E95A3527-9AF4-454F-AD6D-BED6B3D5BCFC} = {ED634A53-958B-4D2B-8181-57A9CA0AA9A5}
+		{256D73C9-2288-4077-84F4-3B0F169BC7F0} = {ED634A53-958B-4D2B-8181-57A9CA0AA9A5}
+		{536C8A9E-44CE-42EF-8A8B-ACB7F3800FBA} = {431A2176-20F2-435A-B9EE-C2D589213538}
+		{42E9267E-D7E0-44F7-B9F9-575196820F3A} = {431A2176-20F2-435A-B9EE-C2D589213538}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D280755E-23DA-4A51-A02D-60FA0E787D75}
+	EndGlobalSection
+EndGlobal
