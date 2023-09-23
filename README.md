@@ -52,7 +52,12 @@
   - Curso de Java
   - Curso de HTML5 CSS3
   - Curso de PHP
-
+  - curso de Markdown
+  - curso de Ruby
+  - curso de Lua
+    
+- **chess.com**
+  - leccones de Ajedrez
 ---
 ## Lenguajes
 
@@ -60,13 +65,13 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 
 ### BackEnd
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1200px-Ruby_logo.svg.png" alt="Ruby" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/600px-Lua-Logo.svg.png" alt="Lua" width="40" height="40"/>
 
 ### DataBases
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 
 ### Otros
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/2560px-Markdown-mark.svg.png" alt="markdown" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><img src="https://logowik.com/content/uploads/images/markdown1678.logowik.com.webp" alt="markdown" width="40" height="40"/> 
 
 ### Extras
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Microsoft_Office_logo_%282013%E2%80%932019%29.svg/1728px-Microsoft_Office_logo_%282013%E2%80%932019%29.svg.png" alt="Microsoft Office" width="30" height="40"/><img src="https://1000marcas.net/wp-content/uploads/2020/01/Photoshop-Logo.png" alt="Photoshop" width="60" height="40"/><img src="https://logodownload.org/wp-content/uploads/2016/03/windows-10-logo-2.png" alt="Windows" width="30" height="40"/> 
@@ -79,7 +84,7 @@
 
 [![ProyectosPersonales2013](https://avatars.githubusercontent.com/u/143562368?s=200&v=4)](https://github.com/ProyectosPersonales2013)
 
-![Repositorios](https://img.shields.io/badge/Repositorios-11-red)
+![Repositorios](https://img.shields.io/badge/Repositorios-12-red)
 ![Contribuyentes](https://img.shields.io/badge/Miembros-2-blue)
 
 La Organización GyC (Guevara y Canizales) se dedica a gestionar mis proyectos personales. Aquí guardo una copia de seguridad de mis proyectos y comparto código. Además, esta organización me permite tener acceso a mi código en caso de que lo necesite para futuros proyectos.
