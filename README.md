@@ -117,6 +117,11 @@ La Organización GyC (Guevara y Canizales) se dedica a gestionar mis proyectos p
 
 ### Redes Sociales
 
+### Profesionales 
+
+<a href="https://www.instagram.com/bryanguevaradev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bagg12" height="30" width="40" /></a>
+
+### Personales
 <p>
     <a href="https://twitter.com/bagg_12" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@bagg_12" height="30" width="40" /></a>
     <a href="https://www.facebook.com/profile.php?id=100077415082943" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bagg 12" height="30" width="40" /></a>
