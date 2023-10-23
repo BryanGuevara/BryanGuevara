@@ -135,3 +135,4 @@ La Organización GyC (Guevara y Canizales) se dedica a gestionar mis proyectos p
 <p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bryanguevara&theme=onedark" alt="bryanguevara" /></a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryanguevara&show_icons=true&locale=en&layout=compact&theme=onedark" alt="bryanguevara" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=bryanguevara&show_icons=true&locale=en&theme=onedark" alt="bryanguevara" />
 </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bryanguevara&theme=onedark" alt="bryanguevara" /></p>
