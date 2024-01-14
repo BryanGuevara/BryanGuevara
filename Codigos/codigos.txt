@@ -1,6 +1,6 @@
-Scaffold-DbContext "server=localhost; database=ElTrigal; Trusted_Connection=SSPI; TrustServerCertificate=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+Scaffold-DbContext "server=localhost; database=; Trusted_Connection=SSPI; TrustServerCertificate=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
 
-builder.Services.AddDbContext<DbconstruraptorContext>(options =>
+builder.Services.AddDbContext<Context>(options =>
 options.UseSqlServer(builder.Configuration.GetConnectionString("conexion")));
 
   "ConnectionStrings": {

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "N/hNXIJ8mqFGhFtGYOgkoVAS1I1H0joMDVAD0vnBXExqx+VsSMEw+auVm9l04UTCdta/5Oaua2qHaogc9e022g==",
+  "dgSpecHash": "VY7Fl3RUBFNBDPGvx4pQ4LG9CWS+rVAfZ/tMFsejyB2vm0F3mO83er9KbFQKuObijnThvDgorJKg8oOt2XfHvw==",
   "success": true,
   "projectFilePath": "C:\\Users\\MINEDUCYT\\Desktop\\Mio\\BryanGuevara\\Arquitecturas\\Arquitectura Limpia\\Arq.Limpia.WebUI\\Arq.Limpia.DAL\\Arq.Limpia.DAL.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\MINEDUCYT\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\MINEDUCYT\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\MINEDUCYT\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,6 +1,6 @@
 <div align="center">
     <h1 style="color:white">Bryan Guevara</h1>
-    <img src="https://github.com/BryanGuevara/BryanGuevara/blob/main/img/BryanGuevara.jpg" alt="Foto de Bryan con Belén" width="320" height="240" />
+    <img src="/img/BryanGuevara.jpg" alt="Foto de Bryan" width="320" height="240" />
     <p><b>💳- Nombre</b>: Bryan Albero Guevara Guerrero</p>
     <p><b>🙍🏻‍♂️- Edad</b>: 19 años</p>
     <p><b>🗺- Pais</b>: El Salvador</p>
@@ -49,7 +49,7 @@
   - Electricista
 
 - **YouTube**
-  - Curso de Java
+  - Curso de Java 
   - Curso de HTML5 CSS3
   - Curso de PHP
   - curso de Markdown
@@ -71,7 +71,7 @@
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 
 ### Otros
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><img src="https://logowik.com/content/uploads/images/markdown1678.logowik.com.webp" alt="markdown" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><img src="https://logowik.com/content/uploads/images/markdown1678.logowik.com.webp" alt="markdown" width="40" height="40"/><img src="https://swimburger.net/media/ppnn3pcl/azure.png" alt="Azure" width="40" height="40"/>
 
 ### Extras
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Microsoft_Office_logo_%282013%E2%80%932019%29.svg/1728px-Microsoft_Office_logo_%282013%E2%80%932019%29.svg.png" alt="Microsoft Office" width="30" height="40"/><img src="https://1000marcas.net/wp-content/uploads/2020/01/Photoshop-Logo.png" alt="Photoshop" width="60" height="40"/><img src="https://logodownload.org/wp-content/uploads/2016/03/windows-10-logo-2.png" alt="Windows" width="30" height="40"/> 
@@ -133,6 +133,6 @@ La Organización GyC (Guevara y Canizales) se dedica a gestionar mis proyectos p
 ### Badges
 
 <p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bryanguevara&theme=monokai&row=2&column=3" alt="bryanguevara" /></a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryanguevara&show_icons=true&locale=en&layout=compact&theme=onedark" alt="bryanguevara" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=bryanguevara&show_icons=true&locale=en&theme=onedark" alt="bryanguevara" />
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bryanguevara&theme=monokai&row=2&column=3" alt="bryanguevara" /></a><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=bryanguevara&show_icons=true&locale=en&layout=compact&theme=onedark" alt="bryanguevara" /><img  src="https://github-readme-stats.vercel.app/api?username=bryanguevara&show_icons=true&locale=en&theme=onedark" alt="bryanguevara" />
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bryanguevara&theme=onedark" alt="bryanguevara" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bryanguevara&theme=onedark" alt="bryanguevara" /></p>
