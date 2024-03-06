@@ -78,40 +78,29 @@
 
 ---
 
-## Organización en GitHub
+### Proyectos Destacados de mi Cuenta:
 
-### GyC
-
-[![ProyectosPersonales2013](https://avatars.githubusercontent.com/u/143562368?s=200&v=4)](https://github.com/ProyectosPersonales2013)
-
-![Repositorios](https://img.shields.io/badge/Repositorios-12-red)
-![Contribuyentes](https://img.shields.io/badge/Miembros-2-blue)
-
-La Organización GyC (Guevara y Canizales) se dedica a gestionar mis proyectos personales. Aquí guardo una copia de seguridad de mis proyectos y comparto código. Además, esta organización me permite tener acceso a mi código en caso de que lo necesite para futuros proyectos.
-
-**Proyectos Destacados de mi Organización:**
-
-1. [Pokédex](https://github.com/ProyectosPersonales2013/Pokedex)
+1. [Pokédex](https://github.com/BryanGuevara/Pokedex)
    
   - En desarrollo.
-  - ![GitHub language count](https://img.shields.io/github/languages/count/ProyectosPersonales2013/Pokedex)
-  - ![GitHub top language](https://img.shields.io/github/languages/top/ProyectosPersonales2013/Pokedex)
-  - [![Tamaño del Repositorio](https://img.shields.io/github/repo-size/ProyectosPersonales2013/Pokedex)](https://github.com/ProyectosPersonales2013/Pokedex)
+  - ![GitHub language count](https://img.shields.io/github/languages/count/BryanGuevara/Pokedex)
+  - ![GitHub top language](https://img.shields.io/github/languages/top/BryanGuevara/Pokedex)
+  - [![Tamaño del Repositorio](https://img.shields.io/github/repo-size/BryanGuevara/Pokedex)](https://github.com/BryanGuevara/Pokedex)
   
 2. [Ferretería y Cerrajería G&G](https://github.com/ProyectosPersonales2013/FerreteriayCerrajeriaGyG)
 
   - Finalizado.
-  - ![GitHub language count](https://img.shields.io/github/languages/count/ProyectosPersonales2013/FerreteriayCerrajeriaGyG)
-  - ![GitHub top language](https://img.shields.io/github/languages/top/ProyectosPersonales2013/FerreteriayCerrajeriaGyG)
-  - [![Tamaño del Repositorio](https://img.shields.io/github/repo-size/ProyectosPersonales2013/FerreteriayCerrajeriaGyG)](https://github.com/ProyectosPersonales2013/FerreteriayCerrajeriaGyG)
+  - ![GitHub language count](https://img.shields.io/github/languages/count/BryanGuevara/FerreteriayCerrajeriaGyG)
+  - ![GitHub top language](https://img.shields.io/github/languages/top/BryanGuevara/FerreteriayCerrajeriaGyG)
+  - [![Tamaño del Repositorio](https://img.shields.io/github/repo-size/BryanGuevara/FerreteriayCerrajeriaGyG)](https://github.com/BryanGuevara/FerreteriayCerrajeriaGyG)
 
   
 3. [Biblioteca de los Errantes](https://github.com/ProyectosPersonales2013/BiblioteaDeLosErrantes)
 
   - Finalizado.
-  - ![GitHub language count](https://img.shields.io/github/languages/count/ProyectosPersonales2013/BiblioteaDeLosErrantes)
-  - ![GitHub top language](https://img.shields.io/github/languages/top/ProyectosPersonales2013/BiblioteaDeLosErrantes)
-  - [![Tamaño del Repositorio](https://img.shields.io/github/repo-size/ProyectosPersonales2013/BiblioteaDeLosErrantes)](https://github.com/ProyectosPersonales2013/BiblioteaDeLosErrantes)
+  - ![GitHub language count](https://img.shields.io/github/languages/count/BryanGuevara/BiblioteaDeLosErrantes)
+  - ![GitHub top language](https://img.shields.io/github/languages/top/BryanGuevara/BiblioteaDeLosErrantes)
+  - [![Tamaño del Repositorio](https://img.shields.io/github/repo-size/BryanGuevara/BiblioteaDeLosErrantes)](https://github.com/BryanGuevara/BiblioteaDeLosErrantes)
   
 ---
 
