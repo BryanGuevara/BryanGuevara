@@ -2,7 +2,7 @@
     <h1 style="color:white">Bryan Guevara</h1>
     <img src="/img/BryanGuevara.jpg" alt="Foto de Bryan" width="320" height="240" />
     <p><b>💳- Nombre</b>: Bryan Albero Guevara Guerrero</p>
-    <p><b>🙍🏻‍♂️- Edad</b>: 19 años</p>
+    <p><b>🙍🏻‍♂️- Edad</b>: 20 años</p>
     <p><b>🗺- Pais</b>: El Salvador</p>
     <p><b>📃- Título</b>: Técnico Vocacional en Desarrollo de Software</p>
     <p><b>🦺- Actualmente Trabajando</b>: Ferretería y Cerrajería</p>
