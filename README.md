@@ -4,9 +4,8 @@
     <p><b>💳- Nombre</b>: Bryan Albero Guevara Guerrero</p>
     <p><b>🙍🏻‍♂️- Edad</b>: 20 años</p>
     <p><b>🗺- Pais</b>: El Salvador</p>
-    <p><b>📃- Título</b>: Técnico Vocacional en Desarrollo de Software</p>
+    <p><b>📃- Título</b>: Técnico en Ingenieria en Desarrollo de Software</p>
     <p><b>🦺- Actualmente Trabajando</b>: Ferretería y Cerrajería</p>
-    <p><b>📚- Actualmente Estudiando</b>: Técnico en Ingeniería en Desarrollo de Software</p>
 </div>
 
 ---
@@ -33,6 +32,9 @@
 
 ### Académicos
 
+- **Escuela Superior Franciscana Especializada/AGAPE**
+    - Técnico en Ingeniería en Desarrollo de Software
+  
 - **Instituto Nacional de Ciudad Arce**
   - Técnico Vocacional en Desarrollo de Software
 
@@ -43,9 +45,12 @@
   - Clases de Guitarra
   - Compendio Teológico Pastoral de la Vida de Jesucristo
 
+- **Instituto Biblico Eben Ezer, Santa Sion**
+    - Ayuda al crecimiento Cristiano
+
 - **Ferretería**
   - Cerrajería
-  - Plomería
+  - Fontaneria
   - Electricista
 
 - **YouTube**
@@ -80,14 +85,18 @@
 
 ### Proyectos Destacados de mi Cuenta:
 
-1. [Pokédex](https://github.com/BryanGuevara/Pokedex)
+1. [MusicNotes](https://github.com/BryanGuevara/MusicNotes)
+   
+MusicNotes es una aplicación diseñada para ayudar a músicos novatos y avanzados a explorar el mundo de la teoría musical y mejorar sus habilidades. Desde formar los primeros acordes hasta explorar escalas complejas, MusicNotes ofrece herramientas para todos los niveles de experiencia.
    
   - En desarrollo.
-  - ![GitHub language count](https://img.shields.io/github/languages/count/BryanGuevara/Pokedex)
-  - ![GitHub top language](https://img.shields.io/github/languages/top/BryanGuevara/Pokedex)
-  - [![Tamaño del Repositorio](https://img.shields.io/github/repo-size/BryanGuevara/Pokedex)](https://github.com/BryanGuevara/Pokedex)
+  - ![GitHub language count](https://img.shields.io/github/languages/count/BryanGuevara/MusicNotes)
+  - ![GitHub top language](https://img.shields.io/github/languages/top/BryanGuevara/MusicNotes)
+  - [![Tamaño del Repositorio](https://img.shields.io/github/repo-size/BryanGuevara/MusicNotes)](https://github.com/BryanGuevara/MusicNotes)
   
 2. [Ferretería y Cerrajería G&G](https://github.com/ProyectosPersonales2013/FerreteriayCerrajeriaGyG)
+
+Es un sistema de inventario para ferreterías
 
   - Finalizado.
   - ![GitHub language count](https://img.shields.io/github/languages/count/BryanGuevara/FerreteriayCerrajeriaGyG)
@@ -96,6 +105,10 @@
 
   
 3. [Biblioteca de los Errantes](https://github.com/ProyectosPersonales2013/BiblioteaDeLosErrantes)
+
+   su nombre se debe al SCP-6000 La Biblioteca de los Errantes
+   
+designada Nx-001, es un espacio-Y extradimensional compuesto por una biblioteca masiva con tamaño y límites poco claros que contiene una cantidad potencialmente infinita de libros, tratados, ensayos, y otras formas de medios de difusión y conocimiento. Su colección supuestamente cubre la suma de todo el conocimiento, pero con un enfoque específico en los elementos de taumaturgia y magia. La Fundación ha sido consciente de la Biblioteca desde 1955, cuando el Grupo de Interés conocido como la Mano de la Serpiente expuso inadvertidamente su ubicación a los agentes. La Biblioteca es cuidada por los Bibliotecarios, entidades que varían en tamaño y forma, pero que típicamente son humanoides altamente modificados especializados en el servicio y protección de Nx-001. Aquellos que rompen las reglas de la Biblioteca están sujetos a ser transformados en Bibliotecarios para pagar su deuda trabajando. Este destino ha sido sufrido por un número de miembros del personal de la Fundación.
 
   - Finalizado.
   - ![GitHub language count](https://img.shields.io/github/languages/count/BryanGuevara/BiblioteaDeLosErrantes)
@@ -109,6 +122,7 @@
 ### Profesionales 
 
 <a href="https://www.instagram.com/bryanguevaradev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bagg12" height="30" width="40" /></a>
+ <a href="https://www.facebook.com/profile.php?id=61556965297606" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bagg 12" height="30" width="40" /></a>
 
 ### Personales
 <p>
