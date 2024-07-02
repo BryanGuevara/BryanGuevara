@@ -95,7 +95,8 @@ Esta comunidad fue creada con el objetivo de facilitar el intercambio de conocim
 
 ### MusicNotes
 
-  - [![Versiones](https://img.shields.io/badge/Version-Oficial-blue)](https://github.com/BryanGuevara/MusicNotes/releases)
+  - [Enlace a MusicNotes](https://github.com/BryanGuevara/MusicNotes)
+  - [![Versiones](https://img.shields.io/badge/Version-Oficial-green)](https://github.com/BryanGuevara/MusicNotes/releases)
   - ![GitHub language count](https://img.shields.io/github/languages/count/BryanGuevara/MusicNotes)
   - ![GitHub top language](https://img.shields.io/github/languages/top/BryanGuevara/MusicNotes)
   - [![Tamaño del Repositorio](https://img.shields.io/github/repo-size/BryanGuevara/MusicNotes)](https://github.com/BryanGuevara/MusicNotes)
@@ -107,7 +108,8 @@ Esta comunidad fue creada con el objetivo de facilitar el intercambio de conocim
 
 ### Inicio
 
-  - [![Versiones](https://img.shields.io/badge/Version-Alfa-blue)](https://github.com/BryanGuevara/Inicio/releases)
+  - [Enlace a Inicio](https://github.com/BryanGuevara/Inicio)
+  - [![Versiones](https://img.shields.io/badge/Version-Oficial-green)](https://github.com/BryanGuevara/Inicio/releases)
   - ![GitHub language count](https://img.shields.io/github/languages/count/BryanGuevara/Inicio)
   - ![GitHub top language](https://img.shields.io/github/languages/top/BryanGuevara/Inicio)
   - [![Tamaño del Repositorio](https://img.shields.io/github/repo-size/BryanGuevara/Inicio)](https://github.com/BryanGuevara/Inicio)
@@ -119,8 +121,8 @@ Esta comunidad fue creada con el objetivo de facilitar el intercambio de conocim
   
 ### VersusTournament
 
-  - [![Versiones](https://img.shields.io/badge/Version-Alfa-blue)](https://github.com/BryanGuevara/VersusTournament/releases)
-
+  - [Enlace a VersusTournament](https://github.com/BryanGuevara/VersusTournament)
+  - [![Versiones](https://img.shields.io/badge/Version-Alfa-gray)](https://github.com/BryanGuevara/VersusTournament/releases)
   - ![GitHub language count](https://img.shields.io/github/languages/count/BryanGuevara/VersusTournament)
   - ![GitHub top language](https://img.shields.io/github/languages/top/BryanGuevara/VersusTournament)
   - [![Tamaño del Repositorio](https://img.shields.io/github/repo-size/BryanGuevara/VersusTournament)](https://github.com/BryanGuevara/VersusTournament)
