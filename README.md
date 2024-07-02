@@ -1,6 +1,8 @@
 <div align="center">
     <h1 style="color:white">Bryan Guevara</h1>
-    <img src="/img/BryanGuevara.jpg" alt="Foto de Bryan" width="320" height="240" />
+     <div style="width: 320px; height: 240px; overflow: hidden;">
+        <img src="/img/BryanGuevara.jpg" alt="Foto de Bryan" style="width: 100%; height: 100%; object-fit: cover;" />
+    </div>
     <p><b>💳- Nombre</b>: Bryan Albero Guevara Guerrero</p>
     <p><b>🙍🏻‍♂️- Edad</b>: 20 años</p>
     <p><b>🗺- Pais</b>: El Salvador</p>
@@ -13,8 +15,6 @@
 ## Pasatiempos
 
 - **Videojuegos:** Soy un apasionado de los videojuegos, y disfruto de una amplia variedad de géneros. Desde los juegos clásicos de Nintendo hasta juegos de rol, aventuras y rompecabezas, siempre estoy buscando nuevas experiencias.
-
--  **Gimnasio:** Estoy trabajando en mejorar mi forma física a través de mi rutina en el gimnasio.
 
 - **Música:** Tocar el teclado y la guitarra es bastante entretenido para mi.
 
@@ -29,7 +29,6 @@
 ---
 
 ## Estudios
-
 ### Académicos
 
 - **Escuela Superior Franciscana Especializada/AGAPE**
@@ -63,6 +62,7 @@
     
 - **chess.com**
   - leccones de Ajedrez
+
 ---
 ## Lenguajes
 
@@ -83,48 +83,60 @@
 
 ---
 
-### Proyectos Destacados de mi Cuenta:
+## Organización en GitHub
 
-1. [MusicNotes](https://github.com/BryanGuevara/MusicNotes)
-   
-MusicNotes es una aplicación diseñada para ayudar a músicos novatos y avanzados a explorar el mundo de la teoría musical y mejorar sus habilidades. Desde formar los primeros acordes hasta explorar escalas complejas, MusicNotes ofrece herramientas para todos los niveles de experiencia.
-   
-  - En desarrollo.
+### HackersComunity
+
+[![ProyectosPersonales2013](https://avatars.githubusercontent.com/u/172205410?s=200&v=4)](https://github.com/HackersComunity)
+
+Esta comunidad fue creada con el objetivo de facilitar el intercambio de conocimientos, la colaboración en proyectos y el crecimiento profesional en el campo de la programación. Queremos crear un ambiente inclusivo donde los programadores de todos los niveles puedan aprender, colaborar y prosperar juntos.
+
+## Mis Proyectos destacados
+
+### MusicNotes
+
+  - [![Versiones](https://img.shields.io/badge/Version-Oficial-blue)](https://github.com/BryanGuevara/MusicNotes/releases)
   - ![GitHub language count](https://img.shields.io/github/languages/count/BryanGuevara/MusicNotes)
   - ![GitHub top language](https://img.shields.io/github/languages/top/BryanGuevara/MusicNotes)
   - [![Tamaño del Repositorio](https://img.shields.io/github/repo-size/BryanGuevara/MusicNotes)](https://github.com/BryanGuevara/MusicNotes)
   
-2. [Ferretería y Cerrajería G&G](https://github.com/ProyectosPersonales2013/FerreteriayCerrajeriaGyG)
+  ###### Descripcion
+  **MusicNotes** es un programa para ayudar a músicos principiantes a poder armar sus escalas y primeros acordes
 
-Es un sistema de inventario para ferreterías
+---
 
-  - Finalizado.
-  - ![GitHub language count](https://img.shields.io/github/languages/count/BryanGuevara/FerreteriayCerrajeriaGyG)
-  - ![GitHub top language](https://img.shields.io/github/languages/top/BryanGuevara/FerreteriayCerrajeriaGyG)
-  - [![Tamaño del Repositorio](https://img.shields.io/github/repo-size/BryanGuevara/FerreteriayCerrajeriaGyG)](https://github.com/BryanGuevara/FerreteriayCerrajeriaGyG)
+### Inicio
 
+  - [![Versiones](https://img.shields.io/badge/Version-Alfa-blue)](https://github.com/BryanGuevara/Inicio/releases)
+  - ![GitHub language count](https://img.shields.io/github/languages/count/BryanGuevara/Inicio)
+  - ![GitHub top language](https://img.shields.io/github/languages/top/BryanGuevara/Inicio)
+  - [![Tamaño del Repositorio](https://img.shields.io/github/repo-size/BryanGuevara/Inicio)](https://github.com/BryanGuevara/Inicio)
   
-3. [Biblioteca de los Errantes](https://github.com/ProyectosPersonales2013/BiblioteaDeLosErrantes)
+  ###### Descripcion
+  **Inicio** es una pagina para el Localhost, para que puedas usarlo como pagina de Inicio tu navegador
 
-   su nombre se debe al SCP-6000 La Biblioteca de los Errantes
-   
-designada Nx-001, es un espacio-Y extradimensional compuesto por una biblioteca masiva con tamaño y límites poco claros que contiene una cantidad potencialmente infinita de libros, tratados, ensayos, y otras formas de medios de difusión y conocimiento. Su colección supuestamente cubre la suma de todo el conocimiento, pero con un enfoque específico en los elementos de taumaturgia y magia. La Fundación ha sido consciente de la Biblioteca desde 1955, cuando el Grupo de Interés conocido como la Mano de la Serpiente expuso inadvertidamente su ubicación a los agentes. La Biblioteca es cuidada por los Bibliotecarios, entidades que varían en tamaño y forma, pero que típicamente son humanoides altamente modificados especializados en el servicio y protección de Nx-001. Aquellos que rompen las reglas de la Biblioteca están sujetos a ser transformados en Bibliotecarios para pagar su deuda trabajando. Este destino ha sido sufrido por un número de miembros del personal de la Fundación.
-
-  - Finalizado.
-  - ![GitHub language count](https://img.shields.io/github/languages/count/BryanGuevara/BiblioteaDeLosErrantes)
-  - ![GitHub top language](https://img.shields.io/github/languages/top/BryanGuevara/BiblioteaDeLosErrantes)
-  - [![Tamaño del Repositorio](https://img.shields.io/github/repo-size/BryanGuevara/BiblioteaDeLosErrantes)](https://github.com/BryanGuevara/BiblioteaDeLosErrantes)
+---
   
+### VersusTournament
+
+  - [![Versiones](https://img.shields.io/badge/Version-Alfa-blue)](https://github.com/BryanGuevara/VersusTournament/releases)
+
+  - ![GitHub language count](https://img.shields.io/github/languages/count/BryanGuevara/VersusTournament)
+  - ![GitHub top language](https://img.shields.io/github/languages/top/BryanGuevara/VersusTournament)
+  - [![Tamaño del Repositorio](https://img.shields.io/github/repo-size/BryanGuevara/VersusTournament)](https://github.com/BryanGuevara/VersusTournament)
+  
+  ###### Descripcion
+  **VersusTournament** es una aplicacion para poder organizar torneos de una mejor manera para que te diviertas con familia o amigos, o tambien organizando torneos a mayor escala
+
 ---
 
 ### Redes Sociales
 
-### Profesionales 
+#### Profesionales 
 
 <a href="https://www.instagram.com/bryanguevaradev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bagg12" height="30" width="40" /></a>
- <a href="https://www.facebook.com/profile.php?id=61556965297606" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bagg 12" height="30" width="40" /></a>
 
-### Personales
+#### Personales
 <p>
     <a href="https://twitter.com/bagg_12" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@bagg_12" height="30" width="40" /></a>
     <a href="https://www.facebook.com/profile.php?id=100077415082943" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bagg 12" height="30" width="40" /></a>
@@ -133,7 +145,7 @@ designada Nx-001, es un espacio-Y extradimensional compuesto por una biblioteca 
     <a href="https://www.tiktok.com/@bagg_12" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/256/3046/3046132.png" alt="TikTok" height="30" width="40" /></a>
 </p>
 
-### Badges
+## Badges
 
 <p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bryanguevara&theme=monokai&row=2&column=3" alt="bryanguevara" /></a><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=bryanguevara&show_icons=true&locale=en&layout=compact&theme=onedark" alt="bryanguevara" /><img  src="https://github-readme-stats.vercel.app/api?username=bryanguevara&show_icons=true&locale=en&theme=onedark" alt="bryanguevara" />
