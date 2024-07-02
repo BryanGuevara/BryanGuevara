@@ -1,7 +1,7 @@
 <div align="center">
     <h1 style="color:white">Bryan Guevara</h1>
-     <div style="width: 320px; height: 240px; overflow: hidden;">
-        <img src="/img/Bryan.jpg" alt="Foto de Bryan" style="width: 100%; height: 100%; object-fit: cover;" />
+     <div style="width: 20px; height: 15px; overflow: hidden;">
+        <img src="/img/Bryan.jpg" alt="Foto de Bryan" style="width: 30%; height: 30%; object-fit: cover;" />
     </div>
     <p><b>💳- Nombre</b>: Bryan Albero Guevara Guerrero</p>
     <p><b>🙍🏻‍♂️- Edad</b>: 20 años</p>
