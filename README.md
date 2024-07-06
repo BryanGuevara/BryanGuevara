@@ -89,7 +89,13 @@
 
 [![ProyectosPersonales2013](https://avatars.githubusercontent.com/u/172205410?s=200&v=4)](https://github.com/HackersComunity)
 
-Esta comunidad fue creada con el objetivo de facilitar el intercambio de conocimientos, la colaboración en proyectos y el crecimiento profesional en el campo de la programación. Queremos crear un ambiente inclusivo donde los programadores de todos los niveles puedan aprender, colaborar y prosperar juntos.
+La [Hacker Community](https://github.com/HackersComunity) es una comunidad dinámica creada para programadores de todas las habilidades y niveles de experiencia. Nuestro enfoque principal es facilitar el intercambio de conocimientos y la colaboración en proyectos de programación. Desde principiantes hasta expertos, todos son bienvenidos a participar y contribuir.
+
+Nos destacamos por promover un ambiente inclusivo donde se valora la amabilidad, el respeto y la colaboración constructiva. Además, ofrecemos oportunidades para el crecimiento profesional mediante mentorías, recursos educativos y la participación en proyectos innovadores.
+
+Nuestro código de conducta establece estándares claros para asegurar que todos los miembros se sientan seguros y respetados. Esto incluye el uso apropiado del lenguaje, el respeto por las opiniones de los demás y la resolución pacífica de conflictos.
+
+En resumen, la Hacker Community no solo es un lugar para aprender y desarrollar habilidades técnicas, sino también para conectar con otros apasionados por la programación y colaborar en la construcción de soluciones creativas y avanzadas.
 
 ## Mis Proyectos destacados
 
