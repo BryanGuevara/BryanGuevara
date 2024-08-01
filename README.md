@@ -39,6 +39,11 @@
 
 ### Cursos y Estudios Extras
 
+- **Capacítate para el empleo**
+  - Control de versiones
+  - Cultura ambiental
+  - Huella digital
+
 - **Iglesia Santa Sion El Mirador**
   - Clases de Teclado
   - Clases de Guitarra
@@ -143,6 +148,7 @@ En resumen, la Hacker Community no solo es un lugar para aprender y desarrollar 
 #### Profesionales 
 
 <a href="https://www.instagram.com/bryanguevaradev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bagg12" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=61556965297606" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bagg 12" height="30" width="40" /></a>
 
 #### Personales
 <p>
