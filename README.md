@@ -29,46 +29,98 @@
 ---
 
 ## Estudios
+
 ### Académicos
 
 - **Escuela Superior Franciscana Especializada/AGAPE**
-    - Técnico en Ingeniería en Desarrollo de Software
+  - Técnico en Ingeniería en Desarrollo de Software
   
 - **Instituto Nacional de Ciudad Arce**
   - Técnico Vocacional en Desarrollo de Software
 
 ### Cursos y Estudios Extras
 
-- **Capacítate para el empleo**
-  - Control de versiones
-  - Cultura ambiental
-  - Huella digital
+- **Capacitación en Negocios**
+  - **Cerrajería**
+    - Desarmado de chapas
+    - Fabricación de llaves a mano
+    - Cambios de combinación de chapas
+  - **Administración de Negocios**
+    - Gestión financiera
+    - Control de inventario
+  - **Capacitación Técnica**
+    - Plomería
+    - Electricidad
+    - Artículos de Ferretería (General)
 
-- **Iglesia Santa Sion El Mirador**
-  - Clases de Teclado
-  - Clases de Guitarra
-  - Compendio Teológico Pastoral de la Vida de Jesucristo
+- **Iglesia Dios de la Profecía La Santa Sion** 
+  - **El Mirador**
+    - **Música**
+      - Teclado
+      - Guitarra
+      - Batería
+    - **Teología**
+      - Compendio Teológico Pastoral de la Vida de Jesucristo
+  - **Habilidades Adicionales**
+    - Redacción de cartas y documentos
+    - Manejo financiero y control monetario
+    - Gestión de miembros y coordinación de actividades
 
-- **Instituto Biblico Eben Ezer, Santa Sion**
-    - Ayuda al crecimiento Cristiano
+  - **Instituto Bíblico Eben Ezer**
+    - **Teología**
+      - Ayuda al crecimiento Cristiano
+      
+- **Plataformas Digitales**
 
-- **Ferretería**
-  - Cerrajería
-  - Fontaneria
-  - Electricista
+  - **Capacítate para el Empleo**
+    - Programación de aplicaciones de escritorio
+      - Control de versiones
+    - Cuidador del Planeta
+      - Cultura ambiental
+      - Huella digital
 
-- **YouTube**
-  - Curso de Java 
-  - Curso de HTML5 CSS3
-  - Curso de PHP
-  - curso de Markdown
-  - curso de Ruby
-  - curso de Lua
+  - **YouTube**
+    - Curso de Java 
+    - Curso de HTML5/CSS3
+    - Curso de PHP
+    - Curso de Markdown
+    - Curso de Ruby
+    - Curso de Lua
     
-- **chess.com**
-  - leccones de Ajedrez
+  - **Chess.com**
+    - Lecciones de Ajedrez
+
+## Experiencia Laboral
+
+- **Ferretería y Cerrajería G&G**
+  - **Responsabilidades:**
+    - Venta de productos
+    - Elaboración de libras de clavos, alambre, electrodos, etc.
+    - Establecimiento de precios de productos
+    - Cerrajería:
+      - Duplicación de llaves
+      - Cambios de combinación
+      - Fabricación de llaves a mano
+
+- **Ayudante de Maestro (200 horas)**
+  - Centro Escolar de Ciudad Arce
+    - **Tareas y Responsabilidades:**
+      - Sellado de documentos y gestión de papeleo.
+      - Asistencia a maestros en la ejecución de clases.
+      - Trabajo en computadora:
+        - Manejo del sistema de notas.
+        - Registro de asistencias y otros datos administrativos.
+
+- **Iglesia Dios de la Profecía La Santa Sion**
+  - **Secretario y Tesorero**
+    - **Responsabilidades:**
+      - Redacción de cartas y documentos oficiales.
+      - Manejo de finanzas y control monetario.
+      - Gestión de miembros y coordinación de actividades.
+      - Músico de acompañamiento
 
 ---
+
 ## Lenguajes
 
 ### FrontEnd
