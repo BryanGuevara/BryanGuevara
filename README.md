@@ -38,6 +38,9 @@
 - **Instituto Nacional de Ciudad Arce**
   - Técnico Vocacional en Desarrollo de Software
 
+- **Colegio Cristiano Prof. Justo Gonzales Carrasco**
+  - Educacion Basicá
+
 ### Cursos y Estudios Extras
 
 - **Capacitación en Negocios**
@@ -51,6 +54,7 @@
   - **Capacitación Técnica**
     - Plomería
     - Electricidad
+    - Herramientas
     - Artículos de Ferretería (General)
 
 - **Iglesia Dios de la Profecía La Santa Sion** 
@@ -61,14 +65,15 @@
       - Batería
     - **Teología**
       - Compendio Teológico Pastoral de la Vida de Jesucristo
-  - **Habilidades Adicionales**
-    - Redacción de cartas y documentos
-    - Manejo financiero y control monetario
-    - Gestión de miembros y coordinación de actividades
+    - **Habilidades Adicionales**
+      - Redacción de cartas y documentos
+      - Manejo financiero y control monetario
+      - Gestión de miembros y coordinación de actividades
 
   - **Instituto Bíblico Eben Ezer**
     - **Teología**
       - Ayuda al crecimiento Cristiano
+      - Educacion Cristiana, Guia de entrenamiento para maestros
       
 - **Plataformas Digitales**
 
@@ -92,32 +97,37 @@
 
 ## Experiencia Laboral
 
-- **Ferretería y Cerrajería G&G**
-  - **Responsabilidades:**
-    - Venta de productos
-    - Elaboración de libras de clavos, alambre, electrodos, etc.
-    - Establecimiento de precios de productos
-    - Cerrajería:
-      - Duplicación de llaves
-      - Cambios de combinación
-      - Fabricación de llaves a mano
-
-- **Ayudante de Maestro (200 horas)**
-  - Centro Escolar de Ciudad Arce
-    - **Tareas y Responsabilidades:**
-      - Sellado de documentos y gestión de papeleo.
-      - Asistencia a maestros en la ejecución de clases.
-      - Trabajo en computadora:
-        - Manejo del sistema de notas.
-        - Registro de asistencias y otros datos administrativos.
-
 - **Iglesia Dios de la Profecía La Santa Sion**
-  - **Secretario y Tesorero**
+  - **Tesorero**
+    - **Responsabilidades:**
+      - Redacción de cartas y documentos oficiales.
+      - Gestión de miembros y coordinación de actividades.
+  - **Secretario**
     - **Responsabilidades:**
       - Redacción de cartas y documentos oficiales.
       - Manejo de finanzas y control monetario.
-      - Gestión de miembros y coordinación de actividades.
-      - Músico de acompañamiento
+  - **Servicio**
+    - **Responsabilidades:**
+      - Músico de acompañamiento.
+      - Ujier.
+      - Maestro de escuela Dominical
+
+- **Ferretería y Cerrajería G&G**
+  - **Responsabilidades:**
+    - Venta de productos.
+    - Elaboración de libras de clavos, alambre, electrodos, etc.
+    - Establecimiento de precios de productos.
+    - **Cerrajería:**
+      - Duplicación de llaves.
+      - Cambios de combinación.
+      - Fabricación de llaves a mano.
+
+- **Centro Escolar de Ciudad Arce**
+  - **Ayudante de Maestro (Horas Sociales, 200 horas)**
+  - **Tareas y Responsabilidades:**
+    - Sellado de documentos .
+    - Asistencia a maestros en la ejecución de clases.
+    - Manejo del sistema de notas y registro de asistencias y otros datos administrativos.
 
 ---
 
@@ -158,7 +168,7 @@ En resumen, la Hacker Community no solo es un lugar para aprender y desarrollar 
 
 ### MusicNotes
 
-  - [Enlace a MusicNotes](https://github.com/BryanGuevara/MusicNotes)
+  - [Enlace a "MusicNotes"](https://github.com/BryanGuevara/MusicNotes)
   - [![Versiones](https://img.shields.io/badge/Version-Oficial-green)](https://github.com/BryanGuevara/MusicNotes/releases)
   - ![GitHub language count](https://img.shields.io/github/languages/count/BryanGuevara/MusicNotes)
   - ![GitHub top language](https://img.shields.io/github/languages/top/BryanGuevara/MusicNotes)
@@ -171,7 +181,7 @@ En resumen, la Hacker Community no solo es un lugar para aprender y desarrollar 
 
 ### Inicio
 
-  - [Enlace a Inicio](https://github.com/BryanGuevara/Inicio)
+  - [Enlace a "Inicio"](https://github.com/BryanGuevara/Inicio)
   - [![Versiones](https://img.shields.io/badge/Version-Oficial-green)](https://github.com/BryanGuevara/Inicio/releases)
   - ![GitHub language count](https://img.shields.io/github/languages/count/BryanGuevara/Inicio)
   - ![GitHub top language](https://img.shields.io/github/languages/top/BryanGuevara/Inicio)
@@ -184,8 +194,8 @@ En resumen, la Hacker Community no solo es un lugar para aprender y desarrollar 
   
 ### VersusTournament
 
-  - [Enlace a VersusTournament](https://github.com/BryanGuevara/VersusTournament)
-  - [![Versiones](https://img.shields.io/badge/Version-Alfa-gray)](https://github.com/BryanGuevara/VersusTournament/releases)
+  - [Enlace a "VersusTournament"](https://github.com/BryanGuevara/VersusTournament)
+  - [![Versiones](https://img.shields.io/badge/Version-Beta-red)](https://github.com/BryanGuevara/VersusTournament/releases)
   - ![GitHub language count](https://img.shields.io/github/languages/count/BryanGuevara/VersusTournament)
   - ![GitHub top language](https://img.shields.io/github/languages/top/BryanGuevara/VersusTournament)
   - [![Tamaño del Repositorio](https://img.shields.io/github/repo-size/BryanGuevara/VersusTournament)](https://github.com/BryanGuevara/VersusTournament)
