@@ -83,6 +83,8 @@
     - Cuidador del Planeta
       - Cultura ambiental
       - Huella digital
+    - Comunicación a través de internet
+      - Netiqueta
 
   - **YouTube**
     - Curso de Java 
