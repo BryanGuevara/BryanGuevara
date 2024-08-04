@@ -169,7 +169,7 @@ En resumen, la Hacker Community no solo es un lugar para aprender y desarrollar 
 ### MusicNotes
 
   - [Enlace a "MusicNotes"](https://github.com/BryanGuevara/MusicNotes)
-  - [![Versiones](https://img.shields.io/badge/Version-Oficial-green)](https://github.com/BryanGuevara/MusicNotes/releases)
+  - [![Versión](https://img.shields.io/github/release/BryanGuevara/MusicNotes.svg)](https://github.com/BryanGuevara/MusicNotes/releases)
   - ![GitHub language count](https://img.shields.io/github/languages/count/BryanGuevara/MusicNotes)
   - ![GitHub top language](https://img.shields.io/github/languages/top/BryanGuevara/MusicNotes)
   - [![Tamaño del Repositorio](https://img.shields.io/github/repo-size/BryanGuevara/MusicNotes)](https://github.com/BryanGuevara/MusicNotes)
@@ -182,7 +182,7 @@ En resumen, la Hacker Community no solo es un lugar para aprender y desarrollar 
 ### Inicio
 
   - [Enlace a "Inicio"](https://github.com/BryanGuevara/Inicio)
-  - [![Versiones](https://img.shields.io/badge/Version-Oficial-green)](https://github.com/BryanGuevara/Inicio/releases)
+  - [![Versión](https://img.shields.io/github/release/BryanGuevara/Inicio.svg)](https://github.com/BryanGuevara/Inicio/releases)
   - ![GitHub language count](https://img.shields.io/github/languages/count/BryanGuevara/Inicio)
   - ![GitHub top language](https://img.shields.io/github/languages/top/BryanGuevara/Inicio)
   - [![Tamaño del Repositorio](https://img.shields.io/github/repo-size/BryanGuevara/Inicio)](https://github.com/BryanGuevara/Inicio)
@@ -191,17 +191,16 @@ En resumen, la Hacker Community no solo es un lugar para aprender y desarrollar 
   **Inicio** es una pagina para el Localhost, para que puedas usarlo como pagina de Inicio tu navegador
 
 ---
-  
 ### VersusTournament
 
-  - [Enlace a "VersusTournament"](https://github.com/BryanGuevara/VersusTournament)
-  - [![Versiones](https://img.shields.io/badge/Version-Beta-red)](https://github.com/BryanGuevara/VersusTournament/releases)
-  - ![GitHub language count](https://img.shields.io/github/languages/count/BryanGuevara/VersusTournament)
-  - ![GitHub top language](https://img.shields.io/github/languages/top/BryanGuevara/VersusTournament)
-  - [![Tamaño del Repositorio](https://img.shields.io/github/repo-size/BryanGuevara/VersusTournament)](https://github.com/BryanGuevara/VersusTournament)
-  
-  ###### Descripcion
-  **VersusTournament** es una aplicacion para poder organizar torneos de una mejor manera para que te diviertas con familia o amigos, o tambien organizando torneos a mayor escala
+- [Enlace a "VersusTournament"](https://github.com/BryanGuevara/VersusTournament)
+- [![Versión](https://img.shields.io/github/release/BryanGuevara/VersusTournament.svg)](https://github.com/BryanGuevara/VersusTournament/releases)
+- ![GitHub language count](https://img.shields.io/github/languages/count/BryanGuevara/VersusTournament)
+- ![GitHub top language](https://img.shields.io/github/languages/top/BryanGuevara/VersusTournament)
+- [![Tamaño del Repositorio](https://img.shields.io/github/repo-size/BryanGuevara/VersusTournament)](https://github.com/BryanGuevara/VersusTournament)
+
+###### Descripción
+**VersusTournament** es una aplicación para organizar torneos de una mejor manera, ya sea para disfrutar con familia o amigos, o para torneos a mayor escala.
 
 ---
 
