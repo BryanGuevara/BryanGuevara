@@ -4,7 +4,7 @@
         <img src="/img/Bryan.jpg" alt="Foto de Bryan" style="width: 30%; height: 30%; object-fit: cover;" />
     </div>
     <p><b>💳- Nombre</b>: Bryan Albero Guevara Guerrero</p>
-    <p><b>🙍🏻‍♂️- Edad</b>: 21 años</p>
+    <p><b>🙍🏻‍♂️- Edad</b>: 22 años</p>
     <p><b>🗺- Pais</b>: El Salvador</p>
     <p><b>📃- Título</b>: Técnico en Ingenieria en Desarrollo de Software</p>
     <p><b>🦺- Actualmente Trabajando</b>: Ferretería y Cerrajería</p>
@@ -65,6 +65,10 @@
       - Batería
     - **Teología**
       - Compendio Teológico Pastoral de la Vida de Jesucristo
+          - Libro 1: Introducción e Infancia
+          - Libro 2: Año de preparación
+          - Libro 3: Año de popularidad
+          - Libro 4: Año de pasión
     - **Habilidades Adicionales**
       - Redacción de cartas y documentos
       - Manejo financiero y control monetario
@@ -72,8 +76,13 @@
 
   - **Instituto Bíblico Eben Ezer**
     - **Teología**
+      - Introducción a la biblia y a la teologia
       - Ayuda al crecimiento Cristiano
       - Educacion Cristiana, Guia de entrenamiento para maestros
+      - Escatologia: Eventos del por venir
+          - Escatologia 1
+          - Escatologia 2
+          - Escatologia 3
       
 - **Plataformas Digitales**
 
@@ -93,36 +102,47 @@
     - Curso de Markdown
     - Curso de Ruby
     - Curso de Lua
-    
-  - **Chess.com**
-    - Lecciones de Ajedrez
+    - Curso de VBA
+    - Curso de GD Script
 
 ## Experiencia Laboral
 
 - **Iglesia Dios de la Profecía La Santa Sion**
   - **Tesorero**
     - **Responsabilidades:**
-      - Redacción de cartas y documentos oficiales.
-      - Gestión de miembros y coordinación de actividades.
+      - Manejo de finanzas y control monetario.
   - **Secretario**
     - **Responsabilidades:**
       - Redacción de cartas y documentos oficiales.
-      - Manejo de finanzas y control monetario.
+      - Gestión de miembros.
+      - Redacción de actas en reuniones.
+  - **Multimedia (JEC nivel nacional)**
+    - **Responsabilidades:**
+      - Creación de contenido para redes sociales.
+      - Edición y redacción de documentos nacionales.
+      - Redacción de actas en reuniones.
+  - **1° Vocal (PH's nivel nacional)**
+    - **Responsabilidades:**
+      - Visita a hijos de pastores.
+      - Asistencia de coordinación de eventos.
   - **Servicio**
     - **Responsabilidades:**
       - Músico de acompañamiento.
       - Ujier.
-      - Maestro de escuela Dominical
+      - Maestro de escuela Dominical.
+      - Maestro de música.
 
 - **Ferretería y Cerrajería G&G**
   - **Responsabilidades:**
     - Venta de productos.
     - Elaboración de libras de clavos, alambre, electrodos, etc.
     - Establecimiento de precios de productos.
+    - Mantenimiento y asesoramiento de dispositivos electronicos.
     - **Cerrajería:**
       - Duplicación de llaves.
       - Cambios de combinación.
       - Fabricación de llaves a mano.
+      - Mantenimiento de cerraduras.
 
 - **Centro Escolar de Ciudad Arce**
   - **Ayudante de Maestro (Horas Sociales, 200 horas)**
