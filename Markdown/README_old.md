@@ -1,16 +1,4 @@
-<div align="center">
-    <h1 style="color:white">Bryan Guevara</h1>
-     <div style="width: 20px; height: 15px; overflow: hidden;">
-        <img src="/img/Bryan.jpg" alt="Foto de Bryan" style="width: 30%; height: 30%; object-fit: cover;" />
-    </div>
-    <p><b>💳- Nombre</b>: Bryan Albero Guevara Guerrero</p>
-    <p><b>🙍🏻‍♂️- Edad</b>: 22 años</p>
-    <p><b>🗺- Pais</b>: El Salvador</p>
-    <p><b>📃- Título</b>: Técnico en Ingenieria en Desarrollo de Software</p>
-    <p><b>🦺- Actualmente Trabajando</b>: Ferretería y Cerrajería</p>
-</div>
-
----
+# Bryan Alberto Guevara Guerrero
 
 ## Pasatiempos
 
@@ -28,130 +16,6 @@
 
 ---
 
-## Estudios
-
-### Académicos
-
-- **Escuela Superior Franciscana Especializada/AGAPE**
-  - Técnico en Ingeniería en Desarrollo de Software
-  
-- **Instituto Nacional de Ciudad Arce**
-  - Técnico Vocacional en Desarrollo de Software
-
-- **Colegio Cristiano Prof. Justo Gonzales Carrasco**
-  - Educacion Basicá
-
-### Cursos y Estudios Extras
-
-- **Capacitación en Negocios**
-  - **Cerrajería**
-    - Desarmado de chapas
-    - Fabricación de llaves a mano
-    - Cambios de combinación de chapas
-  - **Administración de Negocios**
-    - Gestión financiera
-    - Control de inventario
-  - **Capacitación Técnica**
-    - Plomería
-    - Electricidad
-    - Herramientas
-    - Artículos de Ferretería (General)
-
-- **Iglesia Dios de la Profecía La Santa Sion** 
-  - **El Mirador**
-    - **Música**
-      - Teclado
-      - Guitarra
-      - Batería
-    - **Teología**
-      - Compendio Teológico Pastoral de la Vida de Jesucristo
-          - Libro 1: Introducción e Infancia
-          - Libro 2: Año de preparación
-          - Libro 3: Año de popularidad
-          - Libro 4: Año de pasión
-    - **Habilidades Adicionales**
-      - Redacción de cartas y documentos
-      - Manejo financiero y control monetario
-      - Gestión de miembros y coordinación de actividades
-
-  - **Instituto Bíblico Eben Ezer**
-    - **Teología**
-      - Introducción a la biblia y a la teologia
-      - Ayuda al crecimiento Cristiano
-      - Educacion Cristiana, Guia de entrenamiento para maestros
-      - Escatologia: Eventos del por venir
-          - Escatologia 1
-          - Escatologia 2
-          - Escatologia 3
-      
-- **Plataformas Digitales**
-
-  - **Capacítate para el Empleo**
-    - Programación de aplicaciones de escritorio
-      - Control de versiones
-    - Cuidador del Planeta
-      - Cultura ambiental
-      - Huella digital
-    - Comunicación a través de internet
-      - Netiqueta
-
-  - **YouTube**
-    - Curso de Java 
-    - Curso de HTML5/CSS3
-    - Curso de PHP
-    - Curso de Markdown
-    - Curso de Ruby
-    - Curso de Lua
-    - Curso de VBA
-    - Curso de GD Script
-
-## Experiencia Laboral
-
-- **Iglesia Dios de la Profecía La Santa Sion**
-  - **Tesorero**
-    - **Responsabilidades:**
-      - Manejo de finanzas y control monetario.
-  - **Secretario**
-    - **Responsabilidades:**
-      - Redacción de cartas y documentos oficiales.
-      - Gestión de miembros.
-      - Redacción de actas en reuniones.
-  - **Multimedia (JEC nivel nacional)**
-    - **Responsabilidades:**
-      - Creación de contenido para redes sociales.
-      - Edición y redacción de documentos nacionales.
-      - Redacción de actas en reuniones.
-  - **1° Vocal (PH's nivel nacional)**
-    - **Responsabilidades:**
-      - Visita a hijos de pastores.
-      - Asistencia de coordinación de eventos.
-  - **Servicio**
-    - **Responsabilidades:**
-      - Músico de acompañamiento.
-      - Ujier.
-      - Maestro de escuela Dominical.
-      - Maestro de música.
-
-- **Ferretería y Cerrajería G&G**
-  - **Responsabilidades:**
-    - Venta de productos.
-    - Elaboración de libras de clavos, alambre, electrodos, etc.
-    - Establecimiento de precios de productos.
-    - Mantenimiento y asesoramiento de dispositivos electronicos.
-    - **Cerrajería:**
-      - Duplicación de llaves.
-      - Cambios de combinación.
-      - Fabricación de llaves a mano.
-      - Mantenimiento de cerraduras.
-
-- **Centro Escolar de Ciudad Arce**
-  - **Ayudante de Maestro (Horas Sociales, 200 horas)**
-  - **Tareas y Responsabilidades:**
-    - Sellado de documentos .
-    - Asistencia a maestros en la ejecución de clases.
-    - Manejo del sistema de notas y registro de asistencias y otros datos administrativos.
-
----
 
 ## Lenguajes
 
@@ -257,6 +121,5 @@ En resumen, la Hacker Community no solo es un lugar para aprender y desarrollar 
 ## Badges
 
 <p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bryanguevara&theme=monokai&row=2&column=3" alt="bryanguevara" /></a><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=bryanguevara&show_icons=true&locale=en&layout=compact&theme=onedark" alt="bryanguevara" /><img  src="https://github-readme-stats.vercel.app/api?username=bryanguevara&show_icons=true&locale=en&theme=onedark" alt="bryanguevara" />
 </p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bryanguevara&theme=onedark" alt="bryanguevara" /></p>
