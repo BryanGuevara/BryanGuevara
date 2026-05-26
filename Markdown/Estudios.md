@@ -43,7 +43,7 @@
 
 ---
 
-### **Iglesia Dios de la Profecía La Santa Sion** 
+### Iglesia Dios de la Profecía La Santa Sion
 - **El Mirador**
   - **Música**
     - Teclado
@@ -74,7 +74,14 @@
       
 ---
 
-### **Plataformas Digitales**
+### Escuela de manejo Velasquez
+- **Clases de manejo**
+  - Clases practica de manejo en vehiculo Standar
+  - Clases teorica para manejo de vehiculo Automatico
+
+---
+
+### Plataformas Digitales
 
 - **Capacítate para el Empleo**
   - ***Programación de aplicaciones de escritorio***
@@ -94,4 +101,35 @@
   - Curso de Lua
   - Curso de VBA
   - Curso de GD Script
-  - Cómo tomar agua
+  - Programación de juegos en Java
+
+---
+
+## Autodidacta
+
+---
+
+### Biología
+- Mirmecología
+- Investigación de especies animales
+- Taxonomías
+
+### Cifrados, Sistemas de Escritura e Idiomas
+- **Cifrados**
+  - César
+  - Vigenère
+- **Cifrados visuales**
+  - Ogham
+  - Rúnica
+  - Cifrado francmasón (Pigpen Cipher)
+- **Idiomas**
+  - Inglés - Básico
+  - Hebreo - Bajo
+
+### Fuentes de Aprendizaje
+- Investigación en páginas web
+  - Wikipedia
+  - Páginas especializadas
+- Inteligencia artificial
+- Libros digitales
+- Libros físicos
