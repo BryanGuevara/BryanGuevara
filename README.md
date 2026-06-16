@@ -5,9 +5,7 @@
   <img src="https://img.shields.io/badge/Tecladista-6f42c1?style=flat&logo=musicbrainz&logoColor=white" alt="Tecladista" />
 </div>
 
-<img src="https://metrics.lecoq.io/BryanGuevara" width="50%" alt="Métricas de GitHub" />
-
-## Más información
+<img src="https://metrics.lecoq.io/BryanGuevara" width="45%" alt="Métricas de GitHub" />
 
 * [Experiencia laboral](Markdown/Experiencia.md)
 * [Estudios y capacitaciones](Markdown/Estudios.md)
