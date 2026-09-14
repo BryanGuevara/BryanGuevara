@@ -7,4 +7,4 @@
 
 <img src="https://metrics.lecoq.io/BryanGuevara" width="45%" alt="Métricas de GitHub" />
 
-* [Experiencia laboral](Markdown/Proyects.md)
+* [Proyectos](Markdown/Proyects.md)

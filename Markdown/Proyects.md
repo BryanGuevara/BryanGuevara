@@ -1,21 +1,41 @@
-## Ferreteria El Trigal (2024)
+# Horas Vocacionales
 
-**Creación de sistema de inventario y facturación (horas vocacionales, equivalencia de 260 horas)**
+> Equivalencia total: **260 horas**
 
-- **Especificaciones del sistema**
-  - Gestión de inventario
-  - Gestión de marcas
-  - Gestión de proveedores
-  - Gestión de categorias
-  - Creación de facturas
-  - Creación de cotizaciones
-  - Gestión de empleados
-  - Gestión de clientes
-  - Roles personalizados
-  - Historial
-  - Catalogo virtual
-- **Herramientas usadas**
-  - Visual Studio
-  - C# ASP.Net Core 6
-  - SQL Server
-  - Somee.com (para entregarlo)
+## Ferretería El Trigal — 2024
+
+### Proyecto
+
+**Creación de sistema de inventario y facturación**
+
+Proyecto desarrollado como parte de las horas vocacionales, con una equivalencia de **260 horas**.
+
+### Funcionalidades
+
+* **Inventario**
+
+  * Gestión de productos
+  * Gestión de marcas
+  * Gestión de categorías
+  * Gestión de proveedores
+
+* **Ventas y documentos**
+
+  * Creación de facturas
+  * Creación de cotizaciones
+  * Catálogo virtual
+
+* **Administración**
+
+  * Gestión de empleados
+  * Gestión de clientes
+  * Roles personalizados
+  * Historial de operaciones
+
+### Tecnologías y herramientas
+
+* **Lenguaje:** C#
+* **Framework:** ASP.NET Core 6
+* **IDE:** Visual Studio
+* **Base de datos:** SQL Server
+* **Despliegue:** Somee.com
