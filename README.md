@@ -7,7 +7,4 @@
 
 <img src="https://metrics.lecoq.io/BryanGuevara" width="45%" alt="Métricas de GitHub" />
 
-* [Experiencia laboral](Markdown/Experiencia.md)
-* [Estudios y capacitaciones](Markdown/Estudios.md)
-* [Más sobre mí](Markdown/About.md)
-* [Estadísticas](Markdown/Stats.md)
+* [Experiencia laboral](Markdown/Proyects.md)
