@@ -1,6 +1,8 @@
 <div align="left">
   <img src="https://img.shields.io/badge/El%20Salvador-2ea44f?style=flat&logo=googlemaps&logoColor=white" alt="El Salvador" />
   <img src="https://img.shields.io/badge/Java-f89820?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Técnico_en_Ingeniería_en_Desarrollo_de_Software-007396?style=flat&logo=java&logoColor=white" alt="Técnico en Ingeniería en Desarrollo de Software" />
+  <img src="https://img.shields.io/badge/ESFE%2FÁgape-0057b8?style=flat&logo=academia&logoColor=white" alt="ESFE/Ágape" />
   <img src="https://img.shields.io/badge/Cerrajero-8B4513?style=flat&logo=keycdn&logoColor=white" alt="Cerrajería" />
   <img src="https://img.shields.io/badge/Tecladista-6f42c1?style=flat&logo=musicbrainz&logoColor=white" alt="Tecladista" />
 </div>
